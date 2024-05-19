@@ -1,0 +1,14 @@
+!Lista de jugadores! 
+
+Id: 1
+Nombre: Narvaez
+Juego Favorito: Ajedrez
+Level: E
+Max Score: 6000
+-----------------------------
+Id: 2
+Nombre: Juan
+Juego Favorito: Fortnite
+Level: B
+Max Score: 100
+-----------------------------
